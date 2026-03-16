@@ -25,6 +25,7 @@ Consultá cualquier ticker del mercado americano, no solo los del grid. Muestra 
 
 ### 💼 Calculadora de portfolio
 Ingresás cuántos nominales tenés de un ticker de referencia y el dashboard calcula automáticamente cuántos nominales necesitás de cada ticker para mantener los pesos objetivo de tu portfolio. También muestra el error de aproximación y sugiere la cantidad óptima de referencia.
+Disclaimer: esto no es recomendación de inversión.
 
 ### 📅 Vencimientos de opciones
 Consulta los próximos vencimientos de opciones (calls y puts) para todos los tickers monitoreados en los próximos 90 días. Muestra open interest, volumen y un indicador de urgencia por proximidad del vencimiento.
