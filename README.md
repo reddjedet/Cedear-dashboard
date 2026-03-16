@@ -48,7 +48,7 @@ Herramienta de análisis fundamental. Ingresás datos de hasta 5 quarters (OCF, 
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/cedear-dashboard.git
+git clone https://github.com/reddjedet/Cedear-dashboard.git
 cd cedear-dashboard
 
 # 2. Crear y activar un entorno virtual (opcional pero recomendado)
