@@ -1,6 +1,6 @@
 # 📈 CEDEAR Dashboard
 
-Dashboard personal para el seguimiento de CEDEARs y ADRs argentinos. Construido con Python y Streamlit — corre localmente en tu máquina, sin servidores externos ni suscripciones.
+Dashboard personal para el seguimiento de CEDEARs y ADRs argentinos. Construido con Python y Streamlit — corre localmente.
 
 ---
 
@@ -8,7 +8,7 @@ Dashboard personal para el seguimiento de CEDEARs y ADRs argentinos. Construido 
 
 Un CEDEAR (Certificado de Depósito Argentino) es un instrumento que cotiza en la Bolsa de Buenos Aires y replica el precio de una acción extranjera (como Apple, Google o Caterpillar). Cada CEDEAR tiene un **ratio de conversión** que indica cuántos CEDEARs equivalen a una acción subyacente.
 
-Este dashboard te permite seguir tus CEDEARs en tiempo real, calcular precios en pesos, analizar señales técnicas y evaluar la calidad de los fundamentos de cada empresa.
+Este dashboard permite seguir una lista selecta de CEDEARs en tiempo real, calcular precios en pesos, analizar RSI y evaluar la calidad de los fundamentos de cada empresa.
 
 ---
 
@@ -24,7 +24,7 @@ Muestra una grilla con todos los tickers monitoreados. Para cada uno calcula el 
 Consultá cualquier ticker del mercado americano, no solo los del grid. Muestra precio USD, precio ARS (si cotiza en BYMA como `.BA`) y RSI.
 
 ### 💼 Calculadora de portfolio
-Ingresás cuántos nominales tenés de un ticker de referencia y el dashboard calcula automáticamente cuántos nominales necesitás de cada ticker para mantener los pesos objetivo de tu portfolio. También muestra el error de aproximación y sugiere la cantidad óptima de referencia.
+Ingresás cuántos nominales tenés de un ticker de referencia y el dashboard calcula automáticamente cuántos nominales necesitás de cada ticker para mantener los pesos objetivo del portfolio. También muestra el error de aproximación y sugiere la cantidad óptima de referencia.
 Disclaimer: esto no es recomendación de inversión.
 
 ### 📅 Vencimientos de opciones
